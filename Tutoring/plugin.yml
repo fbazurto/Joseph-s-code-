@@ -1,0 +1,21 @@
+name: TutoringPlugin
+main: net.ddns.vcccd.Main
+version: 1.0
+api-version: 1.20
+commands:
+   testme:
+      description: Your description
+      usage: /<command>
+      permission: yourplugin.yourcommandpermission
+   playerweather:
+      description: Your description
+      usage: /<command>
+      permission: yourplugin.yourcommandpermission
+   playerrain:
+      description: Your description
+      usage: /<command>
+      permission: yourplugin.yourcommandpermission
+   generatetree:
+      description: Your description
+      usage: /<command>
+      permission: yourplugin.yourcommandpermission
